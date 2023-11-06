@@ -130,7 +130,6 @@ async function showFavMealList() {
           `;
   } else {
     for (let index = 0; index < arr.length; index++) {
-      
       await fetchMealsFromApi(url, arr[index]).then((data) => {
         html += `
               <div id="card" class="card mb-3" style="width: 20rem;">
