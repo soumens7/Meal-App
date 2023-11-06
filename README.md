@@ -1,5 +1,7 @@
 # Meal-App
+
 Meal-App can store and search for meals.
+
 Features: 
   Home Page:  
     •	Search any meal from the API and display the search results on the front end.
