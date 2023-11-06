@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(47, 44, 44);
+  color: whitesmoke;
+}
+
+/* Navbar section */
+.primary-color {
+  background-color: antiquewhite;
+}
+
+a span {
+  font-family: sans-serif;
+  font-size: 2rem;
+}
+
+button span {
+  color: rgb(41, 40, 40);
+  font-size: 2rem;
+}
+
+/* offcanvas section and card reading */
+h5 {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+/* heading section */
+#heading {
+  margin-top: 7rem;
+  margin-bottom: 2rem;
+}
+
+/* header search bar */
+#search-bar {
+  max-width: 600px;
+  padding-bottom: 40px;
+}
+
+#search-bar input {
+  height: 3rem;
+  border-radius: 20px;
+  padding: 0 20px !important;
+  font-size: 1.5rem;
+}
+
+/* Card section */
+#card {
+  background-color: rgb(231, 107, 107);
+  padding: 10px;
+  color: white;
+}
+
+#card img {
+  border-radius: 60%;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* meal details container js*/
+#meal-details {
+  width: 100%;
+  border-radius: 15px;
+  padding: 15px;
+  background-color: rgb(231, 107, 107);
+}
+
+#meal-header {
+  width: 50%;
+  margin: auto;
+}
+#meal-thumbnail img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+#details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+}
+#meal-instruction {
+  margin: auto;
+  text-align: center;
+}
+
+/* favourites  */
+#favourites-body {
+  background-color: rgb(47, 44, 44);
+  color: white;
+}
