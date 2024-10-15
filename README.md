@@ -1,6 +1,8 @@
 # Meal-App
 
-Meal-App can store and search for meals.
+Developed a user-friendly meal management application using HTML, CSS, JavaScript, and Bootstrap to enable users to store and search for meal options.
+Designed intuitive UI elements to enhance the user experience and improve interaction with the food ordering service.
+Check out the live version of the project [here](https://soumens7.github.io/Meal-App/)
 
 Features: 
 
