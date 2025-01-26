@@ -20,7 +20,7 @@ Check out the live version of the project [here](https://soumens7.github.io/Meal
 
  ## Usage 
  <img width="1512" alt="Screenshot 2025-01-26 at 1 45 06 PM" src="https://github.com/user-attachments/assets/f763696e-9572-4495-a0f6-aebd27065f05" />
- <img width="1512" alt="Screenshot 2025-01-26 at 1 46 56 PM" src="https://github.com/user-attachments/assets/8f64f415-90f1-4e73-ada8-fa856a9b8062" />
+ 
  <img width="1512" alt="Screenshot 2025-01-26 at 1 49 48 PM" src="https://github.com/user-attachments/assets/a2cd6a75-779e-4ea6-93e5-2aeb4c0fb046" />
  <img width="1512" alt="Screenshot 2025-01-26 at 1 50 31 PM" src="https://github.com/user-attachments/assets/6e8812ae-b1b8-45d0-be5a-1fa283a88211" />
  <img width="1512" alt="Screenshot 2025-01-26 at 1 53 41 PM" src="https://github.com/user-attachments/assets/cbe2a8b6-b8eb-4e7e-82e2-4f5b58e2d9ea" />
