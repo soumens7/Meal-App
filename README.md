@@ -1,7 +1,5 @@
 # Meal-App
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
-
 Developed a user-friendly meal management application using HTML, CSS, JavaScript, and Bootstrap to enable users to store and search for meal options.
 Designed intuitive UI elements to enhance the user experience and improve interaction with the food ordering service.
 
